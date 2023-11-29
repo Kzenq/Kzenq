@@ -1,0 +1,48 @@
+body{
+    font-family:  Arial, Helvetica, sans-serif;
+    background-color: linen;
+    color: #222;
+    margin:auto;
+    width: 90%;
+}
+.block{
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 100px;
+}
+#pierwszy{
+    float: left;
+}
+#drugi{
+    float: right;
+}
+#main{
+    padding: 20px;
+}
+table{
+    margin: 40px;
+}
+td{
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+a{
+    color: #aaa;
+}
+a:hover{
+    color: white;
+}
+ul{
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+    border-bottom: 1px white;    
+}
+#Footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
